@@ -26,13 +26,14 @@
 Для Ads
     Создание товара для пользователя с выбранным user_id
       post запрос  http://localhost:8080/api/ads?id=10
-      body: {
+      body: 
+      {
       "title": "Кровать",
       "picture_url": "https://cdn1.speedsize.com/e3baa240-c8b7-44c1-b56d-ea0acff325fc/https://www.homecenter.co.il//images/Fittings/homecenter/Prod_pic/7272300323/7272300323_Big.jpg",
       "location": "Petah-Tikva",
       "telephone": "88005553535",
       "description": "Кровать 140/90 удобная, раньше была деревом"
-       }
+      }
        
      Получение всех товаров
       get запрос http://localhost:8080/api/ads/
