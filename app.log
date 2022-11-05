@@ -1,0 +1,247 @@
+{"level":"error","message":"error"}
+{"level":"warn","message":"warn"}
+{"level":"info","message":"info"}
+{"level":"info","message":"server started on port 8080"}
+{"level":"error","message":"error"}
+{"level":"warn","message":"warn"}
+{"level":"info","message":"info"}
+{"level":"info","message":"server started on port 8080"}
+error - error 
+warn - warn 
+info - info 
+info - server started on port 8080 
+[error] - error 
+[warn] - warn 
+[info] - info 
+[info] - server started on port 8080 
+[error  ] - error 
+[warn   ] - warn 
+[info   ] - info 
+[info   ] - server started on port 8080 
+[error  ] - error 
+[warn   ] - warn 
+[info   ] - info 
+[info   ] - server started on port 8080 
+[error  ] - error 
+[warn   ] - warn 
+[info   ] - info 
+[info   ] - server started on port 8080 
+[error  ] - error 
+[warn   ] - warn 
+[info   ] - info 
+[info   ] - server started on port 8080 
+[error  ] - error 
+[warn   ] - warn 
+[info   ] - info 
+[info   ] - server started on port 8080 
+2022-11-04T16:27:35.270Z  [error  ] - error 
+2022-11-04T16:27:35.271Z  [warn   ] - warn 
+2022-11-04T16:27:35.272Z  [info   ] - info 
+2022-11-04T16:27:35.275Z  [info   ] - server started on port 8080 
+2022-11-04T16:27:48.750Z - [error  ] - error 
+2022-11-04T16:27:48.752Z - [warn   ] - warn 
+2022-11-04T16:27:48.752Z - [info   ] - info 
+2022-11-04T16:27:48.756Z - [info   ] - server started on port 8080 
+2022-11-04T16:32:13.301Z - [error  ] - error 
+2022-11-04T16:32:13.303Z - [warn   ] - warn 
+2022-11-04T16:32:13.303Z - [info   ] - info 
+2022-11-04T16:32:13.307Z - [info   ] - server started on port 8080 
+2022-11-04T16:33:03.593Z - [[31merror[39m] - [31merror[39m 
+2022-11-04T16:33:03.595Z - [[33mwarn[39m] - [33mwarn[39m 
+2022-11-04T16:33:03.595Z - [[32minfo[39m] - [32minfo[39m 
+2022-11-04T16:33:03.598Z - [[32minfo[39m] - [32mserver started on port 8080[39m 
+2022-11-04T16:42:41.669Z - [[31merror[39m] - [31merror[39m 
+2022-11-04T16:42:41.671Z - [[33mwarn[39m] - [33mwarn[39m 
+2022-11-04T16:42:41.671Z - [[32minfo[39m] - [32minfo[39m 
+2022-11-04T16:42:41.675Z - [[32minfo[39m] - [32mserver started on port 8080[39m 
+2022-11-04T16:44:37.766Z - [[31merror[39m] - [31merror[39m 
+2022-11-04T16:44:37.767Z - [[33mwarn[39m] - [33mwarn[39m 
+2022-11-04T16:44:37.768Z - [[32minfo[39m] - [32minfo[39m 
+2022-11-04T16:44:37.771Z - [[32minfo[39m] - [32mserver started on port 8080[39m 
+2022-11-04T16:45:16.328Z - [[31merror[39m] - [31merror[39m 
+2022-11-04T16:45:16.330Z - [[33mwarn[39m] - [33mwarn[39m 
+2022-11-04T16:45:16.330Z - [[32minfo[39m] - [32minfo[39m 
+2022-11-04T16:45:16.334Z - [[32minfo[39m] - [32mserver started on port 8080[39m 
+2022-11-04T16:45:21.241Z - [[31merror[39m] - [31merror[39m 
+2022-11-04T16:45:21.243Z - [[33mwarn[39m] - [33mwarn[39m 
+2022-11-04T16:45:21.244Z - [[32minfo[39m] - [32minfo[39m 
+2022-11-04T16:45:21.247Z - [[32minfo[39m] - [32mserver started on port 8080[39m 
+2022-11-04T16:45:48.695Z - [[31merror[39m] - [31merror[39m 
+2022-11-04T16:45:48.696Z - [[33mwarn[39m] - [33mwarn[39m 
+2022-11-04T16:45:48.697Z - [[32minfo[39m] - [32minfo[39m 
+2022-11-04T16:45:48.700Z - [[32minfo[39m] - [32mserver started on port 8080[39m 
+2022-11-04T16:45:51.399Z - [[32minfo[39m] - [32mсоздали товар для пользователя по user_id = 7[39m 
+2022-11-04T16:47:35.347Z - [[31merror[39m] - [31merror[39m
+2022-11-04T16:47:35.349Z - [[33mwarn[39m] - [33mwarn[39m
+2022-11-04T16:47:35.349Z - [[32minfo[39m] - [32minfo[39m
+2022-11-04T16:47:35.353Z - [[32minfo[39m] - [32mserver started on port 8080[39m
+2022-11-04T16:49:38.167Z - [31merror[39m - [31merror[39m
+2022-11-04T16:49:38.169Z - [33mwarn[39m - [33mwarn[39m
+2022-11-04T16:49:38.170Z - [32minfo[39m - [32minfo[39m
+2022-11-04T16:49:38.173Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T16:55:20.887Z - [31merror[39m - [31merror[39m
+2022-11-04T16:55:20.889Z - [33mwarn[39m - [33mwarn[39m
+2022-11-04T16:55:20.889Z - [32minfo[39m - [32minfo[39m
+2022-11-04T16:55:20.893Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T16:55:29.925Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T16:57:22.767Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T16:57:41.808Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T16:57:46.884Z - [32minfo[39m - [32mсоздали товар для пользователя по user_id = 7[39m
+2022-11-04T16:58:29.365Z - [32minfo[39m - [32mПолучили всех всех пользователей[39m
+2022-11-04T16:58:36.568Z - [32minfo[39m - [32mПолучили пользователя по id = 1[39m
+2022-11-04T16:59:15.604Z - [32minfo[39m - [32mПолучили пользователя по id = 123[39m
+{info.timestamp} - {info.level.padEnd(7)} - {info.message}
+2022-11-04T17:01:37.930Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T17:59:44.691Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T17:59:56.589Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:12:52.407Z - [32minfo[39m - [32mserver started on port undefined[39m
+2022-11-04T18:13:15.872Z - [32minfo[39m - [32mserver started on port undefined[39m
+2022-11-04T18:13:34.666Z - [31merror[39m - [31mPOR is not defined[39m
+2022-11-04T18:13:42.245Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:13:50.513Z - [32minfo[39m - [32mserver started on port 7070[39m
+2022-11-04T18:25:25.331Z - [32minfo[39m - [32mserver started on port 7070[39m
+2022-11-04T18:25:46.951Z - [32minfo[39m - [32mserver started on port 7070[39m
+2022-11-04T18:26:55.499Z - [32minfo[39m - [32mserver started on port 7070[39m
+2022-11-04T18:28:28.566Z - [32minfo[39m - [32mserver started on port 7070[39m
+2022-11-04T18:28:33.908Z - [32minfo[39m - [32mserver started on port 7070[39m
+2022-11-04T18:28:56.459Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:32:36.833Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:33:12.406Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:33:12.482Z - [32minfo[39m - [32mconnected[39m
+2022-11-04T18:33:25.033Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:33:25.212Z - [32minfo[39m - [32mbd connected[39m
+2022-11-04T18:33:51.951Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:33:51.956Z - [31merror[39m - [31mconnection error[39m
+2022-11-04T18:34:06.561Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:34:06.567Z - [31merror[39m - [31mconnection error bd[39m
+2022-11-04T18:34:10.051Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:34:10.123Z - [32minfo[39m - [32mbd connected[39m
+2022-11-04T18:37:07.039Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:37:07.111Z - [32minfo[39m - [32mbd connected[39m
+2022-11-04T18:39:36.399Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:39:36.580Z - [32minfo[39m - [32mbd connected[39m
+2022-11-04T18:42:06.811Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:42:06.905Z - [32minfo[39m - [32mbd connected[39m
+2022-11-04T18:43:24.040Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:43:24.109Z - [32minfo[39m - [32mbd connected[39m
+2022-11-04T18:44:30.192Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:44:30.289Z - [32minfo[39m - [32mbd connected[39m
+2022-11-04T18:47:32.198Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:47:32.267Z - [32minfo[39m - [32mbd connected[39m
+2022-11-04T18:47:54.068Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:47:54.153Z - [32minfo[39m - [32mbd connected[39m
+2022-11-04T18:48:29.567Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:48:29.643Z - [32minfo[39m - [32mbd connected[39m
+2022-11-04T18:48:36.546Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:48:36.617Z - [32minfo[39m - [32mbd connected[39m
+2022-11-04T18:49:06.890Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-04T18:49:06.975Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:04:28.098Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:04:28.289Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:05:34.145Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:05:34.339Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:06:04.822Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:06:04.897Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:06:45.694Z - [31merror[39m - [31merror: null value in column "name" of relation "users" violates not-null constraint[39m
+[31m    at Parser.parseErrorMessage (C:\Users\emdin\WebstormProjects\server\node_modules\pg-protocol\dist\parser.js:287:98)[39m
+[31m    at Parser.handlePacket (C:\Users\emdin\WebstormProjects\server\node_modules\pg-protocol\dist\parser.js:126:29)[39m
+[31m    at Parser.parse (C:\Users\emdin\WebstormProjects\server\node_modules\pg-protocol\dist\parser.js:39:38)[39m
+[31m    at Socket.<anonymous> (C:\Users\emdin\WebstormProjects\server\node_modules\pg-protocol\dist\index.js:11:42)[39m
+[31m    at Socket.emit (node:events:527:28)[39m
+[31m    at addChunk (node:internal/streams/readable:315:12)[39m
+[31m    at readableAddChunk (node:internal/streams/readable:289:9)[39m
+[31m    at Socket.Readable.push (node:internal/streams/readable:228:10)[39m
+[31m    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)[39m
+2022-11-05T13:08:40.936Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:08:41.023Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:08:42.854Z - [31merror[39m - [31me[39m
+2022-11-05T13:10:04.714Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:10:04.799Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:11:38.770Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:11:38.845Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:13:20.117Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:13:20.245Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:13:47.803Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:13:47.895Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:20:06.149Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:20:06.220Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:20:32.612Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:20:32.682Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:20:37.163Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:20:37.239Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:20:55.434Z - [32minfo[39m - [32mСоздали нового пользавателя[39m
+2022-11-05T13:23:03.141Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:23:03.220Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:23:15.660Z - [32minfo[39m - [32mСоздали нового пользавателя[39m
+2022-11-05T13:23:49.855Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:23:49.940Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:23:53.450Z - [32minfo[39m - [32mСоздали нового пользавателя[39m
+2022-11-05T13:24:27.841Z - [32minfo[39m - [32mПолучили всех всех пользователей[39m
+2022-11-05T13:27:18.003Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:27:18.073Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:27:21.759Z - [32minfo[39m - [32mПолучили всех всех пользователей[39m
+2022-11-05T13:27:37.610Z - [32minfo[39m - [32mСоздали нового пользавателя[39m
+2022-11-05T13:27:50.337Z - [32minfo[39m - [32mСоздали нового пользавателя[39m
+2022-11-05T13:28:11.014Z - [31merror[39m - [31mОшибка с бд при создание нового пользователя[39m
+2022-11-05T13:28:41.778Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:28:41.959Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:28:44.521Z - [31merror[39m - [31mОшибка с бд при создание нового пользователя[39m
+2022-11-05T13:29:19.889Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:29:19.969Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:30:00.214Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:30:00.387Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:30:02.400Z - [31merror[39m - [31mОшибка с бд при создание нового пользователя[39m
+2022-11-05T13:30:28.337Z - [32minfo[39m - [32mСоздали нового пользавателя[39m
+2022-11-05T13:31:34.550Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:31:34.622Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:31:36.591Z - [32minfo[39m - [32mСоздали нового пользавателя[39m
+2022-11-05T13:31:58.418Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:31:58.602Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:33:32.709Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:33:32.782Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:37:11.392Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:37:11.462Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:37:34.937Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:37:35.113Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:39:04.088Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:39:04.184Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:39:05.330Z - [32minfo[39m - [32mПолучили всех пользователей[39m
+2022-11-05T13:39:35.990Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:39:36.073Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:39:40.436Z - [32minfo[39m - [32mПолучили всех пользователей[39m
+2022-11-05T13:40:32.858Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:40:33.054Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:40:33.697Z - [32minfo[39m - [32mПолучили всех пользователей[39m
+2022-11-05T13:40:55.835Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:40:55.907Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:41:00.275Z - [32minfo[39m - [32mПолучили всех пользователей[39m
+2022-11-05T13:42:18.199Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:42:18.270Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:42:29.462Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:42:29.539Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:42:37.394Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:42:37.574Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:42:47.930Z - [32minfo[39m - [32mСоздали нового пользавателя[39m
+2022-11-05T13:43:11.892Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:43:11.967Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:43:15.284Z - [32minfo[39m - [32mСоздали нового пользавателя[39m
+2022-11-05T13:43:25.222Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:43:25.294Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:43:25.911Z - [32minfo[39m - [32mСоздали нового пользавателя[39m
+2022-11-05T13:44:42.774Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:44:42.843Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:44:46.221Z - [32minfo[39m - [32mСоздали нового пользавателя[39m
+2022-11-05T13:45:15.978Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:45:16.046Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T13:46:42.119Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T13:46:42.192Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T14:10:12.643Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T14:10:12.714Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T14:25:42.900Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T14:25:42.976Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T15:26:53.596Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T15:26:53.669Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T15:30:59.687Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T15:30:59.767Z - [32minfo[39m - [32mbd connected[39m
+2022-11-05T15:31:01.739Z - [32minfo[39m - [32mserver started on port 8080[39m
+2022-11-05T15:31:01.920Z - [32minfo[39m - [32mbd connected[39m
