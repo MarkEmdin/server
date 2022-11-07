@@ -44,7 +44,7 @@ class AdsController{
 
     async getAds(req,res){
         //const limit = req.query.limit || 50;
-        const ads = await db.query("SELECT * FROM ads",(err,response) => {
+        await db.query("SELECT * FROM ads",(err,response) => {
             if (err) {
                 logger.error(`Ошибка при получение всех товаров`)
                 res.json(`Ошибка при получение всех товаров`);
@@ -53,7 +53,6 @@ class AdsController{
                 res.json(response.rows);
             }
         })
-        res.json(ads.rows)
     }
 }
 
