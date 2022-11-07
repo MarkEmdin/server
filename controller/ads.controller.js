@@ -6,7 +6,7 @@ class AdsController{
         const user_id = req.query.id;
         const{title,picture_url,location,telephone,description} = req.body
         const sqlString = "INSERT INTO ads (user_id,title,picture_url,location,telephone,description) values($1,$2,$3,$4,$5,$6) RETURNING *";
-        const newAds = await db.query(sqlString,[user_id,title,picture_url,location,telephone,description],(err,response) => {
+        await db.query(sqlString,[user_id,title,picture_url,location,telephone,description],(err,response) => {
             if (err) {
                 logger.error(`Ошибка при создании товара для пользователя по user_id`)
                 res.json(`Ошибка при создании товара для пользователя по user_id`);
