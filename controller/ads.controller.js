@@ -50,6 +50,7 @@ class AdsController{
                 res.json(`Ошибка при получение всех товаров`);
             } else {
                 logger.info(`получен весь товар`);
+                res.set('Access-Control-Allow-Origin', '*');
                 res.json(response.rows);
             }
         })

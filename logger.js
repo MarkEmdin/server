@@ -1,6 +1,6 @@
 const {createLogger, transports, format} = require('winston');
 
-const customFormat = format.combine(format.colorize({ all: true }),format.timestamp(),format.printf((info)=>
+const customFormat = format.combine(format.timestamp(),format.printf((info)=>
 {
     let logResult = info.timestamp + " - "+ info.level.padEnd(7)+" - " + info.message;
     return logResult;

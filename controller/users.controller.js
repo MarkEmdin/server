@@ -4,17 +4,27 @@ const {response} = require("express");
 
 class UsersController {
     async createUsers(req,res){
-        const{name,city} = req.body
-        const sqlString = "INSERT INTO users (name,city) values($1,$2) RETURNING *";
-        await db.query(sqlString,[name,city],(err, response) => {
-            if (err) {
-                logger.error("Ошибка с бд при создание нового пользователя")
-                res.json("Ошибка с бд при создание нового пользователя");
-            } else {
-                logger.info(`Создали нового пользавателя`);
-                res.json(`Создали нового пользавателя`);
-            }
-        });
+        const{tg_id,name,city} = req.body
+        //const sqlStringUser = 'SELECT * FROM users where tg_id=$1 RETURNING *'
+        const sqlStringUser = 'SELECT * FROM users where tg_id = $1'
+        const user = await db.query(sqlStringUser,[tg_id]);
+        if(user.rows.length == 0){
+            const sqlString = "INSERT INTO users (tg_id,name,city) values($1,$2,$3) RETURNING *";
+            await db.query(sqlString,[tg_id,name,city],(err, response) => {
+                if (err) {
+                    logger.error("Ошибка с бд при создание нового пользователя")
+                    res.json("Ошибка с бд при создание нового пользователя",err.message);
+                } else {
+                    logger.info(`Создали нового пользавателя`);
+                    res.json(`Создали нового пользавателя`);
+                }
+            });
+        }else{
+            logger.info(`пользователь уже существует`);
+            res.json(`пользователь уже существует`);
+        }
+
+
     }
 
     async getUsers(req,res){
