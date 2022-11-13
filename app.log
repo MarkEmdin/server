@@ -818,3 +818,31 @@ info - server started on port 8080
 2022-11-10T20:20:49.247Z - info    - получен весь товар
 2022-11-10T20:21:56.012Z - info    - server started on port 8080
 2022-11-10T20:21:56.188Z - info    - bd connected
+2022-11-13T17:06:16.419Z - info    - server started on port 8080
+2022-11-13T17:06:16.697Z - error   - connection error bd
+2022-11-13T17:07:01.081Z - info    - server started on port 8080
+2022-11-13T17:07:01.088Z - error   - connection error bd
+2022-11-13T17:07:16.235Z - info    - server started on port 8080
+2022-11-13T17:07:16.242Z - error   - connection error bd
+2022-11-13T17:07:30.307Z - info    - server started on port 8080
+2022-11-13T17:07:30.649Z - info    - bd connected
+2022-11-13T17:09:08.831Z - info    - Создали нового пользавателя
+2022-11-13T17:10:39.290Z - info    - получен весь товар
+2022-11-13T17:10:39.364Z - info    - получен весь товар
+2022-11-13T17:10:46.094Z - info    - получен весь товар
+2022-11-13T17:11:08.483Z - error   - Ошибка при создании товара для пользователя по user_id
+2022-11-13T17:11:08.555Z - info    - Создали нового пользавателя
+2022-11-13T17:12:08.938Z - info    - пользователь уже существует
+2022-11-13T17:12:08.940Z - error   - Ошибка при создании товара для пользователя по user_id
+2022-11-13T17:13:28.121Z - info    - server started on port 8080
+2022-11-13T17:13:28.388Z - info    - bd connected
+2022-11-13T17:13:46.211Z - info    - server started on port 8080
+2022-11-13T17:13:46.489Z - info    - bd connected
+2022-11-13T17:13:53.249Z - info    - пользователь уже существует
+2022-11-13T17:13:53.255Z - error   - Ошибка при создании товара для пользователя по user_id null value in column "date_of_announcement" of relation "ads" violates not-null constraint
+2022-11-13T17:14:32.329Z - info    - server started on port 8080
+2022-11-13T17:14:32.602Z - info    - bd connected
+2022-11-13T17:17:52.831Z - info    - создали товар для пользователя по user_id
+2022-11-13T17:17:52.836Z - info    - пользователь уже существует
+2022-11-13T17:18:36.995Z - info    - server started on port 8080
+2022-11-13T17:18:37.279Z - info    - bd connected
